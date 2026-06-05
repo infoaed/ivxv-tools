@@ -1,6 +1,6 @@
 # ivxv-tools
 
-Tööriistad on mõteldud kasutama [Röster 0.1.1](https://github.com/infoaed/ivxv-roster) loodud JSON-faile (peaks ühilduma [kryptogrammi](https://github.com/infoaed/kryptogramm) loodud JSON-failidega).
+Tööriistad on mõteldud kasutama [Röster 0.0.*](https://github.com/infoaed/ivxv-roster) loodud JSON-faile (peaks ühilduma [kryptogrammi](https://github.com/infoaed/kryptogramm) loodud JSON-failidega).
 
 ## decryptjson
 
