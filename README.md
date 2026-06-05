@@ -8,4 +8,4 @@ Dekrüptib e-hääle loodud JSON failist.
 
 ## votepackage
 
-Paneb JSON failidest kokku töötlemata valimiskasti sellisel kujul nagu see peaks eksporditama kogumisteenusest ja [sisestatama töötlemisfaasi](https://github.com/infoaed/ivxv-dummy#h%C3%A4%C3%A4lte-lisamine-valimiskasti).
+Paneb JSON failidest kokku töötlemata valimiskasti sellisel kujul nagu see peaks eksporditama kogumisteenusest ja [sisestatama töötlemisfaasi](https://github.com/infoaed/ivxv-dummy#ivxv-test-dummy).
