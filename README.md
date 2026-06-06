@@ -6,6 +6,10 @@ Tööriistad on mõteldud kasutama [Röster 0.0.*](https://github.com/infoaed/iv
 
 Dekrüptib e-hääle loodud JSON failist.
 
+## decryptdont
+
+Dekrüptib e-hääle BDOC/ASICE failist, kui anda ette kataloog JSON failidega.
+
 ## votepackage
 
 Paneb JSON failidest kokku töötlemata valimiskasti sellisel kujul nagu see peaks eksporditama kogumisteenusest ja [sisestatama töötlemisfaasi](https://github.com/infoaed/ivxv-dummy#ivxv-test-dummy).
