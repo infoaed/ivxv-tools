@@ -6,9 +6,9 @@ Tööriistad on mõteldud kasutama [Röster 0.0.*](https://github.com/infoaed/iv
 
 Dekrüptib e-hääle loodud JSON failist.
 
-## decryptdont
+## decryptcont
 
-Dekrüptib e-hääle BDOC/ASICE failist, kui anda ette kataloog JSON failidega.
+Dekrüptib e-hääle BDOC/ASICE konteinerist, kui anda ette kataloog JSON failidega.
 
 ## votepackage
 
